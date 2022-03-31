@@ -17,6 +17,7 @@ After budgeting and determining how much her goal should be, here is a chart to 
 Overall, the analysis of this research seemed straight forward. I had several issues myself trying to understand outliers in the data. This was my first time working with IQR, as my past experience involved only working with standard deviation as a method for spotting outliers. Through practice, research, and the help of creating charts in Excel, however, I was able to properly visualize what could be outliers. One challenge that I may see coming up is location. For Louise, if she were to see that another country has a much higher chance of success than the US for her project, would she consider (or even have the means) to hold her Kickstarter there instead? Location is one variable that we did not deep dive, but that may be due to Louise's permanent location here in the US. 
 
 ##Result
+
 Through our data analysis, Louise should launch her project in May. She should also avoid launching in December, as those launched during that month seem to show similar rates of success and failure. 
 
 Through this chart, we are able to help Louise determine the general range of her goal. There are two sweet spots where the percentage of success remains above 60%, and the percentage of failure is at 20%. If Louise were to play it at its safest, she should set her goal at less than $5,000. If she feels the need that her project is not sustainable at that amount but still wants to paly it safe, we would recommend that she set her goal between $35,000 and $50,000.
